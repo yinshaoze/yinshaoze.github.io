@@ -1,6 +1,7 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "title":"半山Blog",
+    "subTitle":"物转星移，花开花落，周而复始，生生不息，但今昔已非昨日，然今日花容依旧。",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/64401074?v=4",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "GMEEK_VERSION":"last"
 }
