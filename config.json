@@ -1,8 +1,8 @@
 {
     "title":"半山Blog",
     "subTitle":"物转星移，花开花落，周而复始，生生不息，但今昔已非昨日，然今日花容依旧。",
-    "avatarUrl":"https://avatars.githubusercontent.com/u/64401074?v=4",
+    "avatarUrl":"https://yinshaoze.github.io/logo.jpg",
     "singlePage":["link","about"],
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "script":"<script src='yinshaoze.github.io/GmeekTOC.js'></script><script src='yinshaoze.github.io/lightbox.js'></script>",
     "GMEEK_VERSION":"last"
 }
